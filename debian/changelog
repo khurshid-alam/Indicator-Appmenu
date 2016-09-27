@@ -1,3 +1,9 @@
+indicator-appmenu (15.02.0+16.10.20160927-0ubuntu1) yakkety; urgency=medium
+
+  * Drop appmenu-qt5 recommendation. (LP: #1612767)
+
+ -- Dmitry Shachnev <mitya57@ubuntu.com>  Tue, 27 Sep 2016 12:50:20 +0000
+
 indicator-appmenu (15.02.0+16.04.20151104-0ubuntu1) xenial; urgency=medium
 
   [ CI Train Bot ]
