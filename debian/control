@@ -34,7 +34,6 @@ Recommends: indicator-applet | indicator-renderer,
             unity-gtk2-module,
             unity-gtk3-module,
             appmenu-qt,
-            appmenu-qt5,
             jayatana,
 Description: Indicator for application menus.
  .
