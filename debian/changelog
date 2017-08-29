@@ -1,10 +1,10 @@
-indicator-appmenu (15.02.0+16.10.20160927-0ubuntu2) UNRELEASED; urgency=medium
+indicator-appmenu (15.02.0+16.10.20160927-0ubuntu2) artful; urgency=medium
 
   * debian/control: use 'X-Ubuntu-Use-Langpack: yes' since the indicator
     is now in universe, this way the translations are still available on 
     launchpad and exported to the langpacks
 
- -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 29 Aug 2017 10:57:46 +0200
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 29 Aug 2017 10:59:11 +0200
 
 indicator-appmenu (15.02.0+16.10.20160927-0ubuntu1) yakkety; urgency=medium
 
