@@ -25,6 +25,7 @@ Homepage: http://launchpad.net/indicator-appmenu
 # and sync up the code again.
 Vcs-Bzr: https://code.launchpad.net/~indicator-applet-developers/indicator-appmenu/trunk.13.04
 Vcs-Browser: https://bazaar.launchpad.net/~indicator-applet-developers/indicator-appmenu/trunk.13.04/files
+X-Ubuntu-Use-Langpack: yes
 
 Package: indicator-appmenu
 Architecture: any
