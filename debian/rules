@@ -3,7 +3,7 @@
 LDFLAGS += -Wl,-z,defs -Wl,--as-needed
 
 %:
-	dh $@ --with autoreconf
+	dh $@ --with autoreconf,translations
 
 override_dh_autoreconf:
 	NOCONFIGURE=1 dh_autoreconf ./autogen.sh
